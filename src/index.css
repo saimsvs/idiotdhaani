@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Georgia:wght@400;700&family=Helvetica+Neue:wght@400;700&display=swap');
+@import "tailwindcss";
+
+@theme {
+  --color-dhaani-green: #6B7C45;
+  --color-dhaani-cream: #F5F0E8;
+  --color-dhaani-brown: #8B5E3C;
+  --font-serif: "Georgia", serif;
+  --font-sans: "Helvetica Neue", Arial, sans-serif;
+}
+
+body {
+  background-color: var(--color-dhaani-cream);
+  color: #3A3A3A;
+}
